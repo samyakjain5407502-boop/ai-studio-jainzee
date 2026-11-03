@@ -1,0 +1,6 @@
+{
+  "name": "Jainzee Foods — Artisanal Dry Fruits & Nuts",
+  "description": "Production-ready luxury e-commerce storefront for Jainzee Food Processing Industries, Siyaganj, Indore. Shop handpicked cashews, pistachios, almonds, walnuts, and raisins with zero-lag performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
